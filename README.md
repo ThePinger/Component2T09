@@ -1,4 +1,5 @@
 # Sprint0
+<<<<<<< HEAD
 ### Getting Started:
 This repository contains this ReadMe file only as it is created just for testing.
 #### Authors:
@@ -13,3 +14,6 @@ in a group project.
 | Yasmine |  Java | Working under pressure |
 | member2 |    --   |   -- |
 | member3 | -- |    -- |
+=======
+Added This line to find conflict afterwards :)
+>>>>>>> d814dab3e110bb262b74dbf366e316e9812d4eb9
