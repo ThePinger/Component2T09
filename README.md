@@ -1,5 +1,4 @@
 # Sprint0
-<<<<<<< HEAD
 ### Getting Started:
 This repository contains this ReadMe file only as it is created just for testing.
 #### Authors:
