@@ -3,6 +3,7 @@
 This repository contains this ReadMe file only as it is created just for testing.
 #### Authors:
   - Yasmine Osama  37-1036
+  - Omar Emad 37-3037
 #### About:
 ###### Purpose:
 This repository was created as a trial to test github and test how it would work
@@ -14,5 +15,3 @@ in a group project.
 | member2 |    --   |   -- |
 | member3 | -- |    -- |
 =======
-Added This line to find conflict afterwards :)
->>>>>>> d814dab3e110bb262b74dbf366e316e9812d4eb9
