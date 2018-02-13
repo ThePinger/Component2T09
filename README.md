@@ -12,6 +12,6 @@ in a group project.
 | Member    |Favorite programming language |  Special skills |
 |----------|:-------------:|------:|
 | Yasmine |  Java | Working under pressure |
-| member2 |    --   |   -- |
+| Omar |    Java   |   Problem solving :) |
 | member3 | -- |    -- |
 =======
