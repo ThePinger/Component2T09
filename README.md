@@ -15,4 +15,5 @@ in a group project.
 | Yasmine |  Java | Working under pressure |
 | Omar |    Java   |   Problem solving :) |
    | Akram | Java | Football|
+|Abdellatif|Java|Kickboxing|
 =======
