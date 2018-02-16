@@ -19,4 +19,3 @@ in a group project.
    | Akram | Java | Football|
 |Abdellatif|Java|Kickboxing|
 |Farid |Java |null |
-=======
